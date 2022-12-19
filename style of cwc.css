@@ -1,0 +1,145 @@
+img{
+    width: 200px;
+    height:200px;
+    margin-left: 0%;
+}
+input{
+    width: 600px;
+    height:50px;
+    margin-left: 30px;
+margin-bottom: 20%;
+background-color: yellow;
+}
+button{
+    width: 80px;
+    height:55px;
+    background-color:darkslategrey;
+   
+    
+}
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    font-size: 30px;
+    padding: 20px;
+    
+}
+nav ul{
+    margin-left: 950px;
+    margin-top: -320px;
+    
+}
+nav li{
+    float: left;
+    /* background-color:; */
+    color:lightcoral;
+}
+body{
+    background-image:url(https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7738/587738-h);
+    background-repeat:  no-repeat;
+    background-size: 100%;
+
+}
+.dish img{
+    width: 300px;
+    height: 300px;
+    padding-right: 10px;
+    padding-bottom: 20px;
+    
+    
+}
+.dish{
+    border-width: 2px 5px 5px 4px;
+    border-style:solid;
+    border-radius: 25px;
+    margin:10PX 20PX 10PX 10px;
+        margin-bottom: 10px;
+   float: left;
+   width: 330px;
+   height: 500px;
+}
+h3{
+    padding: 30px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1{
+    color: goldenrod;
+}
+.searchbox {
+    margin-left: 200px;
+    margin-top: -130px;
+    
+
+}
+
+       
+    
+
+.Contestantsdishes img{
+    width: 300px;
+    height: 300px;
+   padding-left: 3px;
+   padding-bottom: 20px;
+
+}
+.mostrateddishes{
+    margin-top: 50px;
+    
+    
+}
+h1{
+    margin-top: 410px;
+}
+.CONTESTANTS{
+    border-width: 2px 5px 5px 4px;
+    border-style:solid;
+    border-radius: 25px;
+width: 350px;
+height:500px ;  
+margin:10PX 0PX 10PX 10px;
+        margin-bottom: 10px;
+    padding-left: 5px;
+
+
+        
+    
+    float: left;
+}
+.CONTESTANTS h3{
+    padding-right: 45px;
+}
+
+.fmdishes{
+    border-width: 2px 5px 5px 4px;
+    border-style:solid;
+    border-radius: 25px;
+    width: 350px;
+height:500px ;  
+margin:10PX 0PX 10PX 10px;
+        margin-bottom: 10px;
+    padding-left: 5px;
+    float: left;
+
+}
+.fmdishes img{
+    width: 300px;
+    height: 300px;
+   padding-left: 5px;
+   padding-bottom: 20px;
+  
+
+}
+.dish img:hover{
+    width: 315px;
+    height: 315px;
+}
+.Contestantsdishes img:hover{
+    width: 315px;
+    height: 315px;
+}
+.fmdishes img:hover{
+    width: 315px;
+    height: 315px;
+}
